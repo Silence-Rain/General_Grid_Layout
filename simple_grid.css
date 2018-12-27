@@ -6,6 +6,8 @@
 [class*="col-"] {
   float: left;
   box-sizing: border-box;
+  /* Set the padding of cells */
+  padding: 10px;
 }
 /* Generate a 12-columns grid layout */
 .col-1 {

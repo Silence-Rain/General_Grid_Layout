@@ -5,6 +5,7 @@ An elegant solution for browsers which don't support grid layout.
 ## Build
 
 This project depends on Less.js. Detail can be found in [Less.js](http://lesscss.org/).
+
 To generate css file, using `lessc simple_grid.less simple_grid.css`.
 
 ## Usage
